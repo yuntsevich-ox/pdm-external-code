@@ -19,7 +19,7 @@ dependencies = [
     "packaging>22.0",
     "platformdirs",
     "rich>=12.3.0",
-    "virtualenv>=20",
+    "virtualenv>=20.39.1",
     "pyproject-hooks",
     "unearth>=0.17.5",
     "dep-logic>=0.5",
